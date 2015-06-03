@@ -1,0 +1,20 @@
+/** Override Bootstrap */
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#dashboard-side {
+	height: 500px;
+	background-color: #f6f6f6;
+}
+
+#dashboard-main {
+	height: 500px;
+	background-color: #f6f6f6;
+}
+
+.hide {
+	display: none;
+}
